@@ -1,4 +1,6 @@
 // find
+
+"use strict";
 const test = "03.05.2003";
 class YearError{constructor(x){this.x=x;console.error(this.x)}};
 var arr = ['января','февраля','марта', 'апреля', 'мая', 'июня','июля', 'августа', 'сентября','ноября','декабря'];
